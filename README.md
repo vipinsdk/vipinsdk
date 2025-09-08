@@ -1,6 +1,4 @@
-🚀 Computer Vision & Cloud Engineer | AI & 3D Reconstruction Researcher
-Passionate about AI-driven applications, cloud computing, and 3D reconstruction with 5+ years of experience in Docker, Kubernetes, OpenShift, and scalable cloud solutions. 
-Exploring the new opportunities in Computer Vision, AI Research, and Software Development to build intelligent and efficient systems.
+🚀 Dynamic Fullstack Software Engineer with 5+ years of experience building AI-driven, cloud-native applications, from Industry 4.0 digital twins to scalable microservices. Equally skilled in designing robust backend services with Java, Python, Node.js, and Go, and crafting modern frontend applications with Angular. Experienced in containerization and orchestration using Docker and Kubernetes. Seeking roles in AI research, cloud computing, or full-stack development, eager to drive impact in Germany’s tech ecosystem.
 
 # 💻 Tech Stack:
 <p align="center">
